@@ -13,7 +13,7 @@ class HomeScreenFragment : Fragment(R.layout.fragment_home_screen) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentHomeScreenBinding.bind(view)
 
-        binding.button1.setOnClickListener {
+        binding.fab.setOnClickListener {
             findNavController().navigate(
                 HomeScreenFragmentDirections.actionHomeScreenFragmentToCreateListScreenFragment()
             )
