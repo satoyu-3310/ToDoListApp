@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_app_name">??Banking</string>
+    <string name="common_bunk_name">????</string>
+    <string name="common_button_ok">OK</string>
+    <string name="common_button_cancel">?????</string>
+    <string name="common_button_retry">????</string>
+    <string name="common_button_error">???</string>
+    <string name="common_label_error">???????????</string>
+</resources>
